@@ -4633,7 +4633,7 @@ Snd2=9
 BackUp=0
 NROITEMS=5
 Drop1=414-1 'Piel de Lobo
-Drop2=27-3 'Chuleta
+Drop2=38-3 'Pocion Roja
 Drop3=1002-1 'Casco de Lobo
 Drop4=394-1 'Llamado a la Naturaleza.
 
@@ -5954,7 +5954,7 @@ AfectaParalisis=1
 BackUp=0
 NROITEMS=5
 Drop1=12-65000 'Oro
-Drop2= 194-5000 'Minerales de Oro
+Drop2=194-5000 'Minerales de Oro
 Drop3=402-1 'Espada Mata Dragones
 Drop4=532-1 'Apocalipsis
 Drop5=481-3 'Armaduras de Dragon
@@ -6051,10 +6051,10 @@ PoderEvasion=65
 BackUp=0 
 NROITEMS=5
 Drop1=12-100 'Oro
-Drop2=38-10 'Pocion Roja
-Drop3=414-30 'Piel de Lobo
-Drop4=1002-1 'Casco de Lobo
-Drop5=394-1 'Llamado a la Naturaleza.
+Drop2=38-15 'Pocion Roja
+Drop3=1002-2 'Cascos De Lobo
+Drop4=129-1 'Hacha de Guerra de Dos Filos
+Drop5=130-2 'Escudos de Plata.
 
 ############################################
 
@@ -6327,7 +6327,7 @@ BackUp=0
 NROITEMS=5
 Drop1=12-1200 'Oro
 Drop2=38-100 'Pociones Rojas
-Drop3=12-7500 'Oro
+Drop3=37-200 'Pociones Azules
 Drop4=206-1 'Paralizar
 Drop5=531-1 'Descarga Electrica
 
